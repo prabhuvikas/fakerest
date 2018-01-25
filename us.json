@@ -1,0 +1,38 @@
+{
+	"Request Id":"",
+	"is Personalise":"yes",
+	"Asset Class":"Equity,Fixed Income,Money Market",
+	"Product type":{
+		"Equity":{
+			"Direct Equity":"20,40",
+			"Exchange Traded Fund":"0,20",
+			"Mutual Fund":"0,20"
+		},
+		"Fixed Income":{
+			"Government Bonds":"10,20",
+			"Exchange Traded Fund":"0,20",
+			"Mutual Fund":"0,20"
+		},
+		"Money Market":{
+			"TBills":"0,0",
+			"Exchange Traded Fund":"0,0"
+		}
+	},			
+	"sectors":{
+		"Financial Services":"10,40",
+		"Consumer Durables":"20,30",
+		"Technology":"10,40",
+		"Real Estate":"10,40",
+		"Healthcare":"30,60"
+			},
+	"Minimum Rating":"3",
+	"Market Segment":{
+		"Emerging Market":"20,40",
+		"Developed Market":"40,70"
+	},
+	"Duration":{
+		"1-5":"10,40",
+		"5-10":"30,50",
+		"Greater than 10":"20,30"
+	}
+}
